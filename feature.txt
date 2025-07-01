@@ -1,8 +1,1 @@
-This is a new feature.
-Feature: Greeting
-
-Description:
-This feature automatically greets users when they open the application. It uses the time of day to customize the greeting (e.g., "Good morning", "Good afternoon", "Good evening") and can include the user's name for a personalized experience.
-
-Purpose:
-Enhances user experience and adds a friendly touch to the interface.
+["This is a new feature."]
